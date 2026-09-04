@@ -1,11 +1,13 @@
 about:
-  description: hwatch: alternative watch command with history, diff view, JSONL logging, and change hooks. since 2018.
+  description:
+  |
+    hwatch: alternative watch command with history, diff view, JSONL logging, and change hooks. since 2018.
   license: MIT
   homepage: 
   head: aeed51e
   archived: false
   latestVersion: 0.4.2
-  collectedAt: 2026-09-04T04:44:58Z
+  collectedAt: 2026-09-04T19:43:33Z
 timeline:
   created: 2018-02-06
   lastCommit: 2026-06-20
@@ -16,17 +18,25 @@ popularity:
   fork: 28
   release: 32
   contributor: 21
-  pullRequest: 4
+  pullRequest: 132
   issue: 101
 language:
   Rust: 464715
   Shell: 17020
   Dockerfile: 1144
   Makefile: 687
-totalLine: 483566
+totalBytes: 483566
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -57,3 +67,21 @@ recent:
     closedIssue: 7
     openIssue: 1
     commit: 141
+  last720d:
+    since: 2024-09-14
+    release: 8
+    mergedPR: 60
+    openPR: 0
+    closedIssue: 21
+    openIssue: 6
+    commit: 337
+total:
+  release: 32
+  mergedPR: 128
+  openPR: 1
+  closedIssue: 92
+  openIssue: 9
+  commit: 895
+---
+---
+
