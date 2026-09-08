@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 1650424,
       "digest": "sha256:deeee73ea0579fa38161bb41488077d21d1fde62a90dee72dc13fc2e12da9e8c",
-      "download_count": 43,
+      "download_count": 44,
       "created_at": "2026-04-29T11:23:09Z",
       "updated_at": "2026-04-29T11:23:10Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.x86_64-fedora.rpm"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 2306853,
       "digest": "sha256:f601d0e7011257861eb2512f98f1d67612d1fadf86c6e3183d981f1ffb09f6e8",
-      "download_count": 771,
+      "download_count": 776,
       "created_at": "2026-04-29T11:23:04Z",
       "updated_at": "2026-04-29T11:23:04Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.x86_64-unknown-linux-gnu.tar.gz"
