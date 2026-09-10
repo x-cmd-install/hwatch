@@ -4,7 +4,7 @@
 
 hwatch: alternative watch command with history, diff view, JSONL logging, and change hooks. since 2018.
 
-![hwatch](https://repo.x-cmd.io/hwatch.svg)
+![hwatch](https://repo.x-cmd.io/hwatch.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,49 @@ x install hwatch
 - **最新版本**: `0.4.2` (2026-04-29)
 - **最近提交**: 2026-06-20
 - **Release 含资产**: 34 个
-- **发布时间**: 2026-04-29T11:27:12Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [hwatch-0.4.2-1.fc44.src.rpm](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-1.fc44.src.rpm) | 1.2 MiB | `other` |
+| [hwatch-0.4.2-10.fc45.spec](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-10.fc45.spec) | 5.3 KiB | `other` |
+| [hwatch-0.4.2-10.fc45.src.rpm](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-10.fc45.src.rpm) | 1.2 MiB | `other` |
+| [hwatch-0.4.2-11.fc45.spec](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-11.fc45.spec) | 5.4 KiB | `other` |
+| [hwatch-0.4.2-11.fc45.src.rpm](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-11.fc45.src.rpm) | 1.2 MiB | `other` |
+| [hwatch-0.4.2-2.src.rpm](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-2.src.rpm) | 1.2 MiB | `other` |
+| [hwatch-0.4.2-3.spec](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-3.spec) | 3.4 KiB | `other` |
+| [hwatch-0.4.2-3.src.rpm](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-3.src.rpm) | 1.2 MiB | `other` |
+| [hwatch-0.4.2-4.spec](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-4.spec) | 4.0 KiB | `other` |
+| [hwatch-0.4.2-4.src.rpm](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-4.src.rpm) | 1.2 MiB | `other` |
+| [hwatch-0.4.2-5.spec](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-5.spec) | 5.1 KiB | `other` |
+| [hwatch-0.4.2-5.src.rpm](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-5.src.rpm) | 1.2 MiB | `other` |
+| [hwatch-0.4.2-6.spec](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-6.spec) | 5.3 KiB | `other` |
+| [hwatch-0.4.2-6.src.rpm](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-6.src.rpm) | 1.2 MiB | `other` |
+| [hwatch-0.4.2-7.spec](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-7.spec) | 5.5 KiB | `other` |
+| [hwatch-0.4.2-7.src.rpm](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-7.src.rpm) | 1.2 MiB | `other` |
+| [hwatch-0.4.2-8.spec](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-8.spec) | 5.5 KiB | `other` |
+| [hwatch-0.4.2-8.src.rpm](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-8.src.rpm) | 1.2 MiB | `other` |
+| [hwatch-0.4.2-9.spec](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-9.spec) | 5.4 KiB | `other` |
+| [hwatch-0.4.2-9.src.rpm](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-9.src.rpm) | 1.2 MiB | `other` |
+| [hwatch-0.4.2.aarch64-apple-darwin.tar.gz](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.aarch64-apple-darwin.tar.gz) | 2.0 MiB | `native/darwin/arm64` |
+| [hwatch-0.4.2.aarch64-unknown-linux-musl.tar.gz](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.aarch64-unknown-linux-musl.tar.gz) | 2.2 MiB | `native/linux/arm64/musl` |
+| [hwatch-0.4.2.tar.gz](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.tar.gz) | 1.2 MiB | `native/unknown` |
+| [hwatch-0.4.2.tar.gz.asc](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.tar.gz.asc) | 870 B | `other` |
+| [hwatch-0.4.2.x86_64-apple-darwin.tar.gz](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.x86_64-apple-darwin.tar.gz) | 2.1 MiB | `native/darwin/x64` |
+| [hwatch-0.4.2.x86_64-fedora.rpm](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.x86_64-fedora.rpm) | 1.6 MiB | `other` |
+| [hwatch-0.4.2.x86_64-pc-windows-msvc.zip](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.x86_64-pc-windows-msvc.zip) | 1.7 MiB | `native/win/x64` |
+| [hwatch-0.4.2.x86_64-unknown-linux-gnu.tar.gz](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.x86_64-unknown-linux-gnu.tar.gz) | 2.2 MiB | `native/linux/x64/glibc` |
+| [hwatch-0.4.2.x86_64-unknown-linux-musl.deb](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.x86_64-unknown-linux-musl.deb) | 1.5 MiB | `native/linux/x64/musl` |
+| [hwatch-0.4.2.x86_64-unknown-linux-musl.tar.gz](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.x86_64-unknown-linux-musl.tar.gz) | 2.3 MiB | `native/linux/x64/musl` |
+| [hwatch_0.4.2-1.debian.tar.xz](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch_0.4.2-1.debian.tar.xz) | 2.4 KiB | `other` |
+| [hwatch_0.4.2-1.dsc](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch_0.4.2-1.dsc) | 1.8 KiB | `other` |
+| [hwatch_0.4.2-1_source.changes](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch_0.4.2-1_source.changes) | 1.4 KiB | `other` |
+| [hwatch_0.4.2.orig.tar.gz](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch_0.4.2.orig.tar.gz) | 1.2 MiB | `native/unknown` |
 
 ## 流行度
 
-- **Star**: 1,078 · **Fork**: 29 · **开放 issue**: 101 · **贡献者**: 21
+- **Star**: 1,079 · **Fork**: 29 · **开放 issue**: 101 · **贡献者**: 21
 
 ## 累计统计
 
@@ -61,4 +99,4 @@ hwatch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:54:36Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:33:55Z._
