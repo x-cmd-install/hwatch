@@ -12,6 +12,18 @@ hwatch: alternative watch command with history, diff view, JSONL logging, and ch
 x install hwatch
 ```
 
+## Code insight
+
+Total: **13,338** lines of code across **62** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 12,404 | 531 | 2,002 | 49 |
+| Toml | 365 | 17 | 40 | 7 |
+| Sh | 199 | 3 | 56 | 4 |
+| Bash | 186 | 0 | 7 | 1 |
+| RPMSpecfile | 108 | 16 | 15 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/blacknon/hwatch>
@@ -22,6 +34,25 @@ x install hwatch
 - **Latest**: `0.4.2` (2026-04-29)
 - **Last commit**: 2026-06-20
 - **Assets in release**: 34
+
+## Popularity
+
+- **Stars**: 1,079 · **Forks**: 29 · **Open issues**: 101 · **Contributors**: 21
+
+## Totals (cumulative)
+
+- **Releases**: 32 · **Merged PRs**: 128 · **Open PRs**: 1 · **Closed issues**: 92 · **Open issues**: 9 · **Commits**: 895
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 4 | 14 | 0 | 0 | 1 | 116 |
+| 360d | 2025-09-15 | 4 | 25 | 0 | 7 | 1 | 141 |
+| last720d | 2024-09-20 | 8 | 60 | 0 | 21 | 6 | 336 |
 
 ## Release assets
 
@@ -62,33 +93,17 @@ x install hwatch
 | [hwatch_0.4.2-1_source.changes](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch_0.4.2-1_source.changes) | 1.4 KiB | `other` |
 | [hwatch_0.4.2.orig.tar.gz](https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch_0.4.2.orig.tar.gz) | 1.2 MiB | `native/unknown` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 1,079 · **Forks**: 29 · **Open issues**: 101 · **Contributors**: 21
+Reported by **24** distros on [repology.org](https://repology.org/project/hwatch). **13** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 32 · **Merged PRs**: 128 · **Open PRs**: 1 · **Closed issues**: 92 · **Open issues**: 9 · **Commits**: 895
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 4 | 25 | 0 | 7 | 1 | 141 |
-
-## Code size
-
-Total: **13,338** lines of code across **62** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 12,404 | 531 | 2,002 | 49 |
-| Toml | 365 | 17 | 40 | 7 |
-| Sh | 199 | 3 | 56 | 4 |
-| Bash | 186 | 0 | 7 | 1 |
-| RPMSpecfile | 108 | 16 | 15 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.4.2` | ✅ latest |
+| Debian 14 | `0.4.2` | ✅ latest |
+| Homebrew | `0.4.2` | ✅ latest |
+| Nix unstable | `0.4.2` | ✅ latest |
+| Alpine edge | `0.3.11` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -99,4 +114,4 @@ Install metadata for hwatch lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:33:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:55:00Z._
