@@ -1,42 +1,36 @@
-- repo: devuan_unstable
-  subrepo: unstable/main
+- repo: nix_stable_24_11
   srcname: hwatch
-  binnames:
-    - hwatch
   visiblename: hwatch
-  version: 0.4.2
-  origversion: 0.4.2-3
-  status: newest
+  version: 0.3.16
+  origversion: null
+  status: outdated
+  summary: Modern alternative to the watch command
   maintainers:
-    - blacknon@orebibou.com
-  categories:
-    - utils
-- repo: debian_14
-  subrepo: forky/main
+    - hamburger1984@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
   srcname: hwatch
-  binnames:
-    - hwatch
   visiblename: hwatch
-  version: 0.4.2
-  origversion: 0.4.2-2
-  status: newest
+  version: 0.3.19
+  origversion: null
+  status: outdated
+  summary: Modern alternative to the watch command
   maintainers:
-    - blacknon@orebibou.com
-  categories:
-    - utils
-- repo: debian_unstable
-  subrepo: sid/main
+    - hamburger1984@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
   srcname: hwatch
-  binnames:
-    - hwatch
   visiblename: hwatch
-  version: 0.4.2
-  origversion: 0.4.2-3
-  status: newest
+  version: 0.3.19
+  origversion: null
+  status: outdated
+  summary: Modern alternative to the watch command
   maintainers:
-    - blacknon@orebibou.com
-  categories:
-    - utils
+    - hamburger1984@gmail.com
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: hwatch
@@ -157,6 +151,32 @@
     - orhun@aur
   licenses:
     - MIT
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: hwatch
+  binnames:
+    - hwatch
+  visiblename: hwatch
+  version: 0.4.2
+  origversion: 0.4.2-3
+  status: newest
+  maintainers:
+    - blacknon@orebibou.com
+  categories:
+    - utils
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: hwatch
+  binnames:
+    - hwatch
+  visiblename: hwatch
+  version: 0.4.2
+  origversion: 0.4.2-3
+  status: newest
+  maintainers:
+    - blacknon@orebibou.com
+  categories:
+    - utils
 - repo: homebrew
   srcname: hwatch
   visiblename: hwatch
@@ -202,39 +222,6 @@
   srcname: hwatch
   visiblename: hwatch
   version: 0.3.13
-  origversion: null
-  status: outdated
-  summary: Modern alternative to the watch command
-  maintainers:
-    - hamburger1984@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: hwatch
-  visiblename: hwatch
-  version: 0.3.16
-  origversion: null
-  status: outdated
-  summary: Modern alternative to the watch command
-  maintainers:
-    - hamburger1984@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: hwatch
-  visiblename: hwatch
-  version: 0.3.19
-  origversion: null
-  status: outdated
-  summary: Modern alternative to the watch command
-  maintainers:
-    - hamburger1984@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: hwatch
-  visiblename: hwatch
-  version: 0.3.19
   origversion: null
   status: outdated
   summary: Modern alternative to the watch command
