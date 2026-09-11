@@ -95,12 +95,11 @@ Total: **13,338** lines of code across **62** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **24** distros on [repology.org](https://repology.org/project/hwatch). **13** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **23** distros on [repology.org](https://repology.org/project/hwatch). **12** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `0.4.2` | ✅ latest |
-| Debian 14 | `0.4.2` | ✅ latest |
 | Homebrew | `0.4.2` | ✅ latest |
 | Nix unstable | `0.4.2` | ✅ latest |
 | Alpine edge | `0.3.11` | ⚠️ outdated |
@@ -114,4 +113,4 @@ Install metadata for hwatch lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:50:39Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:09:21Z._
