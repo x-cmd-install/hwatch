@@ -4,7 +4,7 @@
 
 hwatch: alternative watch command with history, diff view, JSONL logging, and change hooks. since 2018.
 
-![hwatch](https://repo.x-cmd.io/hwatch.svg)
+[![x-cmd/install — hwatch Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hwatch.svg)](https://x-cmd.com/install/hwatch)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **13,338** lines of code across **62** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,079 · **Forks**: 29 · **Open issues**: 101 · **Contributors**: 21
+- **Stars**: 1,080 · **Forks**: 29 · **Open issues**: 101 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **13,338** lines of code across **62** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 3 | 11 | 0 | 0 | 1 | 107 |
-| 360d | 2025-09-23 | 4 | 25 | 0 | 7 | 1 | 138 |
-| last720d | 2024-09-28 | 8 | 60 | 0 | 21 | 6 | 335 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 3 | 11 | 0 | 0 | 1 | 107 |
+| 360d | 2025-09-25 | 4 | 25 | 0 | 7 | 1 | 137 |
+| last720d | 2024-09-30 | 8 | 60 | 0 | 21 | 6 | 335 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for hwatch lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:09:44Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:21:17Z._
