@@ -37,7 +37,7 @@ Total: **13,338** lines of code across **62** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,087 · **Forks**: 29 · **Open issues**: 101 · **Contributors**: 21
+- **Stars**: 1,088 · **Forks**: 29 · **Open issues**: 101 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **13,338** lines of code across **62** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-19 | 3 | 8 | 0 | 0 | 1 | 70 |
-| 360d | 2025-10-21 | 4 | 24 | 0 | 4 | 1 | 136 |
-| last720d | 2024-10-26 | 8 | 55 | 0 | 21 | 6 | 305 |
+| 30d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-20 | 3 | 8 | 0 | 0 | 1 | 70 |
+| 360d | 2025-10-22 | 4 | 24 | 0 | 4 | 1 | 136 |
+| last720d | 2024-10-27 | 8 | 55 | 0 | 21 | 6 | 304 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for hwatch lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:39:58Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:28:06Z._
