@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5505,
       "digest": "sha256:d71b4d21db35ff084148d09608da1693aaf3c59ade32d92dae0966943348c0f4",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-06-24T08:40:05Z",
       "updated_at": "2026-06-24T08:40:06Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-11.fc45.spec"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1302771,
       "digest": "sha256:6b8eb1c2996b5850d88fb742e766f308f616f0b79180d212b405e53398e98fdd",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-06-24T08:40:10Z",
       "updated_at": "2026-06-24T08:40:11Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-11.fc45.src.rpm"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 1811381,
       "digest": "sha256:58b284e3d808a9c916320996988d73625778d590bc90c6029327f7d86cd2a608",
-      "download_count": 145,
+      "download_count": 147,
       "created_at": "2026-04-29T11:23:07Z",
       "updated_at": "2026-04-29T11:23:08Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.x86_64-pc-windows-msvc.zip"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 2306853,
       "digest": "sha256:f601d0e7011257861eb2512f98f1d67612d1fadf86c6e3183d981f1ffb09f6e8",
-      "download_count": 1844,
+      "download_count": 1850,
       "created_at": "2026-04-29T11:23:04Z",
       "updated_at": "2026-04-29T11:23:04Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.x86_64-unknown-linux-gnu.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 2402055,
       "digest": "sha256:9d1c6a61b1f04f9e1aa84fe18634a6296aa22061c62d39416a3fa23fba066803",
-      "download_count": 4052,
+      "download_count": 4061,
       "created_at": "2026-04-29T11:23:04Z",
       "updated_at": "2026-04-29T11:23:04Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.x86_64-unknown-linux-musl.tar.gz"
