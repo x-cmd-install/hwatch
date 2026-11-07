@@ -1,3 +1,23 @@
+- repo: kali_rolling
+  subrepo: main
+  srcname: hwatch
+  binnames:
+    - hwatch
+  visiblename: hwatch
+  version: 0.4.2
+  origversion: 0.4.2-3
+  status: newest
+  maintainers:
+    - blacknon@orebibou.com
+  categories:
+    - utils
+- repo: homebrew
+  srcname: hwatch
+  visiblename: hwatch
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Modern alternative to the watch command
 - repo: alpine_edge
   subrepo: testing
   srcname: hwatch
@@ -22,18 +42,6 @@
   summary: A modern alternative to the watch command (documentation)
   maintainers:
     - jakub@jirutka.cz
-  licenses:
-    - MIT
-- repo: aur
-  srcname: hwatch-bin
-  binname: hwatch-bin
-  visiblename: hwatch-bin
-  version: 0.4.2
-  origversion: 0.4.2-1
-  status: newest
-  summary: A modern alternative to the watch command
-  maintainers:
-    - dominiquini@aur
   licenses:
     - MIT
 - repo: alpine_edge
@@ -107,6 +115,18 @@
   licenses:
     - MIT
 - repo: aur
+  srcname: hwatch-bin
+  binname: hwatch-bin
+  visiblename: hwatch-bin
+  version: 0.4.2
+  origversion: 0.4.2-1
+  status: newest
+  summary: A modern alternative to the watch command
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: aur
   srcname: hwatch-git
   binname: hwatch-git
   visiblename: hwatch-git
@@ -164,26 +184,6 @@
   origversion: null
   status: newest
   summary: Modern alternative to the watch command
-- repo: homebrew
-  srcname: hwatch
-  visiblename: hwatch
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Modern alternative to the watch command
-- repo: kali_rolling
-  subrepo: main
-  srcname: hwatch
-  binnames:
-    - hwatch
-  visiblename: hwatch
-  version: 0.4.2
-  origversion: 0.4.2-3
-  status: newest
-  maintainers:
-    - blacknon@orebibou.com
-  categories:
-    - utils
 - repo: macports
   srcname: sysutils/hwatch
   binname: hwatch
@@ -279,6 +279,19 @@
     - utils
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: hwatch
+  binnames:
+    - hwatch
+  visiblename: hwatch
+  version: 0.4.2
+  origversion: 0.4.2-3
+  status: newest
+  maintainers:
+    - blacknon@orebibou.com
+  categories:
+    - universe/utils
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: hwatch
   binnames:
     - hwatch
