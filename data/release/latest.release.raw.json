@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1299971,
       "digest": "sha256:091d2a4b95e1f6f69e3901c3db03aa40e31cce63481bfe0b09c0d5bcde085a68",
-      "download_count": 20,
+      "download_count": 23,
       "created_at": "2026-04-29T11:23:10Z",
       "updated_at": "2026-04-29T11:23:10Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-1.fc44.src.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5415,
       "digest": "sha256:324939cbdae11929c13907796fc3b6648b882d356a1d8edb3ee6661fac3a73a8",
-      "download_count": 14,
+      "download_count": 19,
       "created_at": "2026-06-21T17:13:49Z",
       "updated_at": "2026-06-21T17:13:49Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-10.fc45.spec"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1302506,
       "digest": "sha256:5121bf4f09754629c9d2408a6f2c0c56cd59f9d5763dc46e9ab954302d09e5be",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-06-21T17:13:46Z",
       "updated_at": "2026-06-21T17:13:49Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-10.fc45.src.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5505,
       "digest": "sha256:d71b4d21db35ff084148d09608da1693aaf3c59ade32d92dae0966943348c0f4",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-06-24T08:40:05Z",
       "updated_at": "2026-06-24T08:40:06Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-11.fc45.spec"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1302771,
       "digest": "sha256:6b8eb1c2996b5850d88fb742e766f308f616f0b79180d212b405e53398e98fdd",
-      "download_count": 21,
+      "download_count": 24,
       "created_at": "2026-06-24T08:40:10Z",
       "updated_at": "2026-06-24T08:40:11Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-11.fc45.src.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1302800,
       "digest": "sha256:b6e1ad3ba360b7379caf80e8c093e9d678b0edb08d991f1ac98b8c9461418099",
-      "download_count": 15,
+      "download_count": 18,
       "created_at": "2026-04-29T16:56:27Z",
       "updated_at": "2026-04-29T16:56:28Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-2.src.rpm"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3494,
       "digest": "sha256:d7816e0d81e7b92d6c546070ceaf616835b8a9ebfd4a631d05702556a313e43e",
-      "download_count": 26,
+      "download_count": 29,
       "created_at": "2026-05-28T23:10:31Z",
       "updated_at": "2026-05-28T23:11:40Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-3.spec"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1301508,
       "digest": "sha256:bf39c0476e3b15766f29006929508f875d8fbe2e12d0d70432b6fad92e96f4da",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-05-28T22:58:29Z",
       "updated_at": "2026-05-28T22:58:31Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-3.src.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4046,
       "digest": "sha256:8ccb71fed153db1372e213d548862eadf464dc9370d611d4dafa3e330f5086b6",
-      "download_count": 20,
+      "download_count": 22,
       "created_at": "2026-05-30T06:21:54Z",
       "updated_at": "2026-05-30T06:22:13Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-4.spec"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1300794,
       "digest": "sha256:d934e24be77fb61ea637dd96e25f1eac6da135b860a0b666c3ce20c4f35f8a07",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-05-30T06:21:38Z",
       "updated_at": "2026-05-30T06:21:40Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2-4.src.rpm"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 2306853,
       "digest": "sha256:f601d0e7011257861eb2512f98f1d67612d1fadf86c6e3183d981f1ffb09f6e8",
-      "download_count": 2302,
+      "download_count": 2304,
       "created_at": "2026-04-29T11:23:04Z",
       "updated_at": "2026-04-29T11:23:04Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.x86_64-unknown-linux-gnu.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 2402055,
       "digest": "sha256:9d1c6a61b1f04f9e1aa84fe18634a6296aa22061c62d39416a3fa23fba066803",
-      "download_count": 4167,
+      "download_count": 4178,
       "created_at": "2026-04-29T11:23:04Z",
       "updated_at": "2026-04-29T11:23:04Z",
       "browser_download_url": "https://github.com/blacknon/hwatch/releases/download/0.4.2/hwatch-0.4.2.x86_64-unknown-linux-musl.tar.gz"
